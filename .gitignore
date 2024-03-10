@@ -1,3 +1,6 @@
 env/
 dataset/
 logs/
+**/__pycache__/
+**/logs/
+**/dataset/
